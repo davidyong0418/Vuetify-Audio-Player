@@ -4,17 +4,17 @@ And below code in the template:
 <vuetify-audio :file="file" :ended="audioFinish"></vuetify-audio>
 
 
-### Install
--npm install
--npm run watch
--npm run build
+### Install<br />
+-npm install<br />
+-npm run watch<br />
+-npm run build<br />
 
 
 ### ToDo
 
- - ~~Create online demo~~
- - ~~Create npm install~~
+ - Create npm install
  - Add customize styles for component
- - ~~Add event for end audio~~
+ - Add event for end audio
+ - Deploy it to your server or heroku
 
 
